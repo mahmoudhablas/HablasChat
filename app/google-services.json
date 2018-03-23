@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "393155137932",
+    "firebase_url": "https://habalschat.firebaseio.com",
+    "project_id": "habalschat",
+    "storage_bucket": "habalschat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393155137932:android:cccde5af9b0c0b80",
+        "android_client_info": {
+          "package_name": "com.example.mahmoud.hablaschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393155137932-p6h2ju5s4fa3o421gt1u3skeegijb3jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClvkXqzF4F1zjIGnG5SrEoAl3lJXe24zw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
